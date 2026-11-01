@@ -3,5 +3,6 @@ __pycache__/
 *$py.class
 .DS_Store
 *.db
+!students.db
 .env
 .venv/
